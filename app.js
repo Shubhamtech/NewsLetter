@@ -55,5 +55,3 @@ res.redirect("/"); //redirect to home route
 app.listen(3000,function(){
  console.log("server has started on port 3000");   
 });
-//ad779e0d554d8db20932d17630eff655-us21    mailchimp api key
-//fb89df9b06
